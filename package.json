@@ -13,5 +13,18 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmlhero/eventResfulApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azmlhero/eventResfulApi/issues"
+  },
+  "homepage": "https://github.com/azmlhero/eventResfulApi#readme",
+  "description": ""
 }
