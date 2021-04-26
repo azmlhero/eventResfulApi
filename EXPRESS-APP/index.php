@@ -1,2 +1,2 @@
   
-<?php include_once("./EXPRESS-APP/index.html");?>
+<?php include_once("index.html");?>
