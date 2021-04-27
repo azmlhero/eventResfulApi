@@ -25,7 +25,6 @@ let events = [
     
  ]  
 
-
  
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -36,4 +35,5 @@ router.get("/events", function(req,res)
 {
   res.send(events);
 })
+
 module.exports = router;
