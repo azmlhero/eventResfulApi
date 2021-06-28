@@ -8,7 +8,7 @@ var  matchSchema = mongoose.Schema({
   teamB: {type: String, required: true},
 })
 
-var Matchschema = mongoose.model('MatchSchema', matchSchema);
+var matchschema = mongoose.model('matchSchema', matchSchema);
 
 
 function validateProduct(data) {
